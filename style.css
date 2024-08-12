@@ -1,0 +1,49 @@
+h1{
+
+    text-align: center;
+    text-shadow: 1px 1px 2px hsl(0, 0%, 0%);
+    color: chartreuse;
+    border: 1px solid black;
+    background-color: darkgrey;
+}
+
+.container{
+   text-align: center;
+}
+#generateMnemonic{
+    background-color: blue;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    height: 50px;
+    width: 300px;
+    font-size: large;
+}
+
+#mnemonicDisplay{
+    font-size: large;
+    border: 2px solid black;
+    background-color: lightsteelblue;
+    border-radius: 4px;
+}
+
+#addWallet{
+    background-color: blue;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    height: 50px;
+    width: 300px;
+    font-size: large;
+}
+
+#walletList{
+    margin-top: 20px;
+    font-size: large;
+    border: 2px solid black;
+    background-color: lightsteelblue;
+    border-radius: 4px;
+}
+
+
+
